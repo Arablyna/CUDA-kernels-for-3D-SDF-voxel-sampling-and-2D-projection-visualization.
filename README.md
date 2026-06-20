@@ -15,15 +15,6 @@ The project includes:
 - example output images
 - compilation and execution instructions
 
-## Example outputs
-
-### Middle XZ slice
-
-![Middle slice](images/slice_mid.png)
-
-### 2D projection
-
-![Projection](images/projection.png)
 
 ## Technical details
 
